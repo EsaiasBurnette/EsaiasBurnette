@@ -16,6 +16,7 @@ I specialize in:
 ---
 
 🧠 **What Sets Me Apart**
+
 ✅ Strong mix of technical and business skills  
 ✅ Proven experience in multi-cloud environments  
 ✅ Certified in Azure, AWS, Project Management, and ITIL  
