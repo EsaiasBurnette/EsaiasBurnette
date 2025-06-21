@@ -92,7 +92,7 @@ I specialize in:
 
 📬 **Let's Connect**  
 [![Upwork](https://img.shields.io/badge/Upwork-Esaias_Burnette-success?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~010c6dbf06c663b09c)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/esaiasburnette)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/esaias-burnette)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/EsaiasBurnette)  
 [![Website](https://img.shields.io/badge/Website-burnettetech.com-blueviolet?style=flat)](https://www.burnettetech.com)
 
