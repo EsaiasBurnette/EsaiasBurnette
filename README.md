@@ -1,67 +1,101 @@
-# Hi there! I'm Esaias Burnette 👋
+# Hi there! I'm Esaias Burnette 👋  
+**Senior System Engineer | Cloud Architect | Azure | AWS | M365 Expert**  
+💼 Available for Remote Projects
+
+---
 
 🚀 **About Me**  
-I'm a passionate and results-driven **Senior Systems Administrator & Cloud Engineer** with over 9 years of hands-on experience designing, deploying, and supporting secure, scalable IT infrastructure. I specialize in hybrid environments and bring deep expertise across **Azure**, **AWS**, and **on-premises systems**, with a strong foundation in **DevOps practices**, **infrastructure automation**, and **MSP operations**.
+I'm a seasoned **IT Professional, Cloud Architect, and Certified Project Manager** with over **9 years of hands-on experience** delivering robust IT solutions across **Microsoft Azure**, **AWS**, **Microsoft 365**, and **hybrid infrastructures**. My work blends deep technical expertise with leadership and business insight to provide high-value outcomes for startups, enterprises, and MSPs alike.
 
-Certified across Microsoft, Cisco, AWS, ITIL, and project management disciplines, I thrive in fast-paced environments and enjoy solving complex problems with elegant, scalable solutions. Whether building infrastructure from scratch or automating operations with IaC, I bring a strategic and execution-focused mindset to every project.
-
----
-
-🌐 **Languages**  
-🇬🇧 English (Fluent)  
----
-
-💻 **Technical Skills**
-
-### 🖥️ Systems Administration
-- **Windows Server** 2003–2025 (AD, DNS, DHCP, GPO, RDS)
-- **Linux** (Ubuntu, Debian, CentOS, RHEL)
-- **Virtualization**: VMware vSphere/ESXi, Microsoft Hyper-V
-
-### ☁️ Cloud & Infrastructure
-- **Microsoft Azure**: Azure AD, VMs, VNets, Load Balancers, Azure Arc, App Services, Azure Automation, Azure Migrate  
-- **Amazon Web Services (AWS)**: EC2, S3, IAM, Lambda, VPC, CloudWatch  
-- **Microsoft 365**: Exchange Online, Intune, SharePoint, Teams  
-
-### 🔁 Infrastructure as Code / Automation
-- **IaC**: Terraform, Bicep, ARM Templates, CloudFormation  
-- **Automation/Scripting**: PowerShell, Bash, Python  
-- **CI/CD**: GitHub Actions, Azure DevOps  
-
-### 🔐 Networking & Security
-- **Firewalls & Security**: Fortinet, SonicWall, Ubiquiti, Palo Alto, Sophos  
-- **VPN & Remote Access**: IPsec, SSL VPNs, RDP Gateway  
-- **RMM/PSA Tools**: N-able, ConnectWise, SolarWinds, NinjaOne  
-
-### 📊 Monitoring & Management
-- **Monitoring Tools**: CheckMK, Zabbix, Grafana, Prometheus  
-- **Device Management**: Microsoft Intune, Group Policy, RMM agents  
-- **Documentation & Support**: IT Glue, SOPs, Knowledgebase Management  
+I specialize in:
+- Designing and securing cloud-native and hybrid infrastructures
+- Managing enterprise IT operations across Windows and Linux systems
+- Automating infrastructure and deployment pipelines
+- Delivering proactive, client-focused support and project leadership
 
 ---
 
-🛠️ **Certifications**
-- Microsoft Certified: Azure Solutions Architect Expert (AZ-305)  
-- Microsoft Certified: Azure Administrator Associate (AZ-104)  
-- Microsoft Certified: Azure Security Engineer Associate  
-- AWS Certified Solutions Architect – Associate  
-- Cisco Certified Network Associate (CCNA)  
-- Certified Associate in Project Management (CAPM)®  
-- ITIL v4 Foundation Certified  
-- CMI Level 5 Certificate in Management and Leadership  
+🧠 **What Sets Me Apart**
+✅ Strong mix of technical and business skills  
+✅ Proven experience in multi-cloud environments  
+✅ Certified in Azure, AWS, Project Management, and ITIL  
+✅ Trusted by clients worldwide through my Upwork agency  
 
 ---
 
-📦 **Projects & Interests**
-- 🔧 **SuperController**: A network visibility tool leveraging AWS IoT, MQTT, Lambda, and DynamoDB  
-- 🖥️ **Hybrid Infrastructure Builds**: Combining on-prem, Azure, and AWS for optimal cost and scalability  
-- 📚 **Mentorship & Teaching**: Delivering workshops like “Get Your First Online Job” to empower young professionals  
+💼 **Key Technical Skills**
+
+### ☁️ Cloud Platforms  
+**Microsoft Azure**  
+- Azure AD, Entra ID, Azure VM, App Services, Key Vault, Storage  
+- Azure Monitor, Log Analytics, Logic Apps, Defender, Purview  
+- Azure Arc, Azure Migrate, Bicep, ARM Templates, Azure Automation  
+- Azure DevOps, GitHub Actions, CI/CD Pipelines  
+
+**Amazon Web Services (AWS)**  
+- EC2, RDS, S3, IAM, Lambda, CloudWatch, Route 53  
+- VPC, Subnets, Security Groups, Auto Scaling, SSM  
+- CloudFormation, CDK, AWS Backup, Migration Hub  
+
+### 🖥️ Systems & Virtualization  
+- Windows Server (AD, GPO, DNS, DHCP), Linux (Ubuntu, CentOS)  
+- VMware ESXi, Hyper-V, Citrix, VirtualBox  
+- VoIP & Teams Voice, PBX Systems  
+
+### 🧰 DevOps & Automation  
+- PowerShell, Bash, Python  
+- GitHub Actions, Azure DevOps, Jenkins  
+- Terraform, Ansible, Infrastructure as Code  
+
+### 🔐 Security & Networking  
+- Fortinet, Sophos, Palo Alto, SonicWall, Ubiquiti, Cisco  
+- VPNs: Tailscale, OpenVPN, IPsec, SSL  
+- MFA, Conditional Access, Defender for Endpoint, SentinelOne  
+
+### 🛠️ IT Operations & Support  
+- Microsoft 365: Intune, Exchange, SharePoint, Teams, Defender  
+- RMM/PSA Tools: N-Able, NinjaOne, Kaseya, ConnectWise  
+- Ticketing: Halo, Autotask, Syncro, Freshdesk  
+- Backup: Veeam, Datto, ShadowProtect  
+- Docs: IT Glue, Hudu, Guru  
 
 ---
 
-🤝 **Connect with Me**  
+📈 **Project Management & Methodologies**
+- PMP-Certified (CAPM®), Agile/Scrum/Kanban  
+- Tools: Jira, Trello, Monday.com, MS Project  
+- Successfully led projects > $100K in IT & Solar  
+
+---
+
+🎓 **Certifications**
+- ⭐ AWS Certified Solutions Architect – Associate  
+- ⭐ Microsoft Certified: Azure Solutions Architect Expert  
+- ⭐ Microsoft Certified: Cybersecurity Architect Expert  
+- ⭐ Microsoft Certified: Azure Security Engineer Associate  
+- ⭐ Microsoft Certified: Azure Administrator Associate  
+- ⭐ Microsoft Certified: Azure Fundamentals  
+- ⭐ Cisco Certified Network Associate (CCNA)  
+- ⭐ Certified Associate in Project Management (CAPM)®  
+- ⭐ ITIL Foundation in IT Service Management (ITIL v4)  
+- ⭐ CMI Level 5 Certificate in Management & Leadership  
+
+---
+
+📦 **Notable Projects**
+- 🔧 **SuperController** – IoT-powered network visibility tool using AWS IoT Core, Lambda, and DynamoDB  
+- 💻 **M365 Hybrid Deployments** – Secure and scalable cloud-first IT environments for SMBs  
+- 🚀 **Cloud Migrations** – Full lift-and-shift and modernization to Azure & AWS  
+
+---
+
+📬 **Let's Connect**  
+[![Upwork](https://img.shields.io/badge/Upwork-Esaias_Burnette-success?style=flat&logo=upwork)](https://www.upwork.com/freelancers/~01a9eeb87d2e2b9d33)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/esaiasburnette)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/EsaiasBurnette)  
 [![Website](https://img.shields.io/badge/Website-burnettetech.com-blueviolet?style=flat)](https://www.burnettetech.com)
 
 ---
+
+🧩 **Looking to collaborate on your next IT project or cloud migration?**  
+Let’s talk and build something remarkable together!
