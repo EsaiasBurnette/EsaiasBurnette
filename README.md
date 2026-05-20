@@ -1,5 +1,5 @@
 # Hi there! I'm Esaias Burnette 👋  
-**Senior System Engineer | Cloud Architect | Azure | AWS | M365 Expert**  
+**Senior System Engineer | Cloud Architect | Azure | AWS | GCP | M365 Expert**  
 💼 Available for Remote Projects
 
 ---
